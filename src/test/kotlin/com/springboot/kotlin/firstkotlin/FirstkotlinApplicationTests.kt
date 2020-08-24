@@ -8,7 +8,10 @@ class FirstkotlinApplicationTests {
 
 	@Test
 	fun contextLoads() {
+	}
 
+	@Test
+	fun contextLoadsSecond() {
 	}
 
 }
